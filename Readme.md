@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Крамарева](https://up.htmlacademy.ru/javascript/11/user/312749).
-* Наставник: `Неизвестно`.
+* Наставник: [Арсений Ильяшов](https://htmlacademy.ru/profile/id40943).
 
 ---
 
